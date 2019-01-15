@@ -10,6 +10,6 @@ Simple Node app with express for training
 - Text editor (ie: Visual Studio Code ) https://code.visualstudio.com/
 
 ### Installation
-Download the latest release.
-Clone the repo: git clone https://github.com/bergerinc/simple-node-express-app.git
-Install with npm: npm install
+- Download the latest release.
+- Clone the repo: git clone https://github.com/bergerinc/simple-node-express-app.git
+- Install with npm: npm install
